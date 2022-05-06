@@ -30,7 +30,7 @@ matplotlib
 
 **Running the script**
 
-'''
+```
 $ ./remove_dups.py -h
 usage: remove_dups.py [-h] -f FILE -u UMI [-p]
 
@@ -42,7 +42,7 @@ optional arguments:
   -u UMI, --umi UMI     file containing the list of UMIs (unset if randomers
                         instead of UMIs)
   -p, --paired          flag if file is paired end
-'''
+```
 
 
 
